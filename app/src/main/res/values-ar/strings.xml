@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_tab_label">سجل الصور</string>
+    <string name="second_tab_label">كاميرا</string>
+    <string name="third_tab_label">الإعدادات</string>
+    <string name="title_activity_landmark">معلم</string>
+    <string name="current_language">Arabic</string>
+    <string name="choose">اختر لغة</string>
+
+    <string-array name="languages">
+        <item>الانقليزي</item>
+        <item>العربية</item>
+        <item>الاسباني</item>
+        <item>الصيني</item>
+    </string-array>
+</resources>

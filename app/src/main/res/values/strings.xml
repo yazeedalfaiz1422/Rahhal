@@ -1,0 +1,16 @@
+<resources>
+    <string name="appName" translatable="false">Rahhal</string>
+    <string name="first_tab_label">Gallery</string>
+    <string name="second_tab_label">Camera</string>
+    <string name="third_tab_label">Settings</string>
+    <string name="title_activity_landmark">Landmark</string>
+    <string name="current_language">English</string>
+    <string name="choose">Choose language</string>
+    
+    <string-array name="languages">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Spanish</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>
